@@ -940,8 +940,8 @@
     <node_editor>
       <ThemeNodeEditor
         grid="#2d3035"
-        node_selected="#d08770"
-        node_active="#ffffff"
+        node_selected="#9f3a4e"
+        node_active="#d08770"
         wire="#1a1c20"
         wire_inner="#474b52"
         wire_select="#88c0d0b3"
