@@ -7,4 +7,4 @@ _Nord Pro Scarlet_ is based on the [Nord Dark theme](https://github.com/TehMerow
 
 December Dawn is made from scratch using Blender Light as a base. Some parts are still in progress, but the key features (node editor, properties, outliner) should be fully themed.
 
-I recommend changing your Blender font, as the default font doesn't really do these themes justice. Free recommendations are Inter, Work Sans, Red Hat Text and Cantarell; the one I personally use is Graphik.
+I recommend changing your Blender font, as the default font doesn't really do these themes justice. Free recommendations are Inter, PT Root UI, Work Sans, Red Hat Text and Cantarell; the one I personally use is Graphik.
