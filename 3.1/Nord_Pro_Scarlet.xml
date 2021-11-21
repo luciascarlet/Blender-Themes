@@ -230,7 +230,7 @@
           <ThemeWidgetColors
             outline="#2d3035"
             inner="#2d3035f0"
-            inner_sel="#6e85a2cf"
+            inner_sel="#9f3a4ecf"
             item="#9f3a4eff"
             text="#f8f8f8"
             text_sel="#f8f8f8"
@@ -291,7 +291,7 @@
             outline="#2d3035"
             inner="#2d3035ff"
             inner_sel="#9f3a4eff"
-            item="#6b8bbcff"
+            item="#9f3a4eff"
             text="#f8f8f8"
             text_sel="#ffffff"
             show_shaded="FALSE"
@@ -540,7 +540,7 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#5f7caa"
+        selected_file="#9f3a4e"
         row_alternate="#181a1dff"
         >
         <space>
@@ -892,18 +892,18 @@
     </properties>
     <text_editor>
       <ThemeTextEditor
-        line_numbers="#63686d"
+        line_numbers="#f8f8f8"
         line_numbers_background="#1a1c20"
         selected_text="#474b52"
-        cursor="#e8e8e8"
-        syntax_builtin="#88c0d0"
-        syntax_symbols="#d08770"
-        syntax_special="#b48ead"
-        syntax_preprocessor="#677c9f"
-        syntax_reserved="#ebcb8b"
-        syntax_comment="#63686d"
-        syntax_string="#a3be8c"
-        syntax_numbers="#d08770"
+        cursor="#ff1919"
+        syntax_builtin="#b9767d"
+        syntax_symbols="#cd9b8b"
+        syntax_special="#aeb7a5"
+        syntax_preprocessor="#aba5aa"
+        syntax_reserved="#bf7d4e"
+        syntax_comment="#9f3a4e"
+        syntax_string="#eed9b1"
+        syntax_numbers="#88c0d0"
         >
         <space>
           <ThemeSpaceGeneric
@@ -940,8 +940,8 @@
     <node_editor>
       <ThemeNodeEditor
         grid="#2d3035"
-        node_selected="#9f3a4e"
-        node_active="#d08770"
+        node_selected="#d08770"
+        node_active="#ffffff"
         wire="#1a1c20"
         wire_inner="#474b52"
         wire_select="#88c0d0b3"
