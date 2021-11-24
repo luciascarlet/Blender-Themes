@@ -464,13 +464,13 @@
     </view_3d>
     <graph_editor>
       <ThemeGraphEditor
-        grid="#474b52"
+        grid="#292c31"
         frame_current="#6b8bbc"
         time_scrub_background="#1a1c20e6"
         time_marker_line="#00000060"
         time_marker_line_selected="#ffffff60"
         window_sliders="#878787"
-        channels_region="#474b52"
+        channels_region="#292c31"
         dopesheet_channel="#01172f"
         dopesheet_subchannel="#0d2e4d"
         channel_group="#1e350a"
@@ -499,9 +499,9 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#1a1c20"
+            back="#1f2125"
             title="#ffffff"
-            text="#9b9b9b"
+            text="#f8f8f8"
             text_hi="#ffffff"
             header="#1a1c20ff"
             header_text="#f1f1f1"
@@ -512,16 +512,16 @@
             button_text_hi="#ffffff"
             navigation_bar="#00000000"
             execution_buts="#00000000"
-            tab_active="#9f3a4e"
+            tab_active="#474b52"
             tab_inactive="#1a1c20"
-            tab_back="#474b52ff"
-            tab_outline="#474b52"
+            tab_back="#1a1c20ff"
+            tab_outline="#1a1c20"
             >
             <panelcolors>
               <ThemePanelColors
-                header="#1a1c20ff"
-                back="#1a1c20ff"
-                sub_back="#1a1c20ff"
+                header="#2d3035cc"
+                back="#2d3035cc"
+                sub_back="#1a1c2033"
                 >
               </ThemePanelColors>
             </panelcolors>
@@ -531,8 +531,8 @@
           <ThemeSpaceListGeneric
             list="#1a1c20"
             list_title="#ffffff"
-            list_text="#b0b0b0"
-            list_text_hi="#ffbe47"
+            list_text="#f8f8f8"
+            list_text_hi="#ebcb8b"
             >
           </ThemeSpaceListGeneric>
         </space_list>
@@ -583,7 +583,7 @@
         nla_track="#2d3035"
         active_action="#cd9b8b66"
         active_action_unset="#8b816c4d"
-        preview_range="#944a0566"
+        preview_range="#9f3a4e66"
         strips="#000000"
         strips_selected="#cd9b8b"
         transition_strips="#03080c"
@@ -597,7 +597,7 @@
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
         frame_current="#9f3a4e"
-        time_scrub_background="#2d3035e6"
+        time_scrub_background="#1a1c2000"
         time_marker_line="#00000060"
         time_marker_line_selected="#ffffff60"
         >
@@ -646,7 +646,7 @@
       <ThemeDopeSheet
         grid="#474b52"
         frame_current="#9f3a4e"
-        time_scrub_background="#1a1c2066"
+        time_scrub_background="#1a1c2000"
         time_marker_line="#00000060"
         time_marker_line_selected="#ffffff60"
         value_sliders="#000000"
@@ -673,7 +673,7 @@
         keyframe_border_selected="#000000ff"
         keyframe_scale_factor="1"
         summary="#b9767d66"
-        preview_range="#cd9b8b66"
+        preview_range="#9f3a4e4d"
         interpolation_line="#ace696cc"
         >
         <space>
@@ -892,18 +892,18 @@
     </properties>
     <text_editor>
       <ThemeTextEditor
-        line_numbers="#f8f8f8"
+        line_numbers="#474b52"
         line_numbers_background="#1a1c20"
         selected_text="#474b52"
-        cursor="#ff1919"
-        syntax_builtin="#b9767d"
-        syntax_symbols="#cd9b8b"
-        syntax_special="#aeb7a5"
-        syntax_preprocessor="#aba5aa"
-        syntax_reserved="#bf7d4e"
-        syntax_comment="#9f3a4e"
-        syntax_string="#eed9b1"
-        syntax_numbers="#88c0d0"
+        cursor="#9f3a4e"
+        syntax_builtin="#81a1c1"
+        syntax_symbols="#b48ead"
+        syntax_special="#88c0d0"
+        syntax_preprocessor="#ebcb8b"
+        syntax_reserved="#bf616a"
+        syntax_comment="#707479"
+        syntax_string="#a3be8c"
+        syntax_numbers="#d08770"
         >
         <space>
           <ThemeSpaceGeneric
@@ -927,9 +927,9 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#1a1c20ff"
-                back="#1a1c20ff"
-                sub_back="#1a1c20ff"
+                header="#2d3035cc"
+                back="#2d3035cc"
+                sub_back="#1a1c2033"
                 >
               </ThemePanelColors>
             </panelcolors>
@@ -942,7 +942,7 @@
         grid="#2d3035"
         node_selected="#d08770"
         node_active="#ffffff"
-        wire="#1a1c20"
+        wire="#060606"
         wire_inner="#474b52"
         wire_select="#88c0d0b3"
         selected_text="#6c6c6c"
