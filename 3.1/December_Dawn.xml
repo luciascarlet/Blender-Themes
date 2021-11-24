@@ -583,7 +583,7 @@
         nla_track="#515460"
         active_action="#cc701a66"
         active_action_unset="#9987614d"
-        preview_range="#a14d0066"
+        preview_range="#6568c955"
         strips="#0c0a0a"
         strips_selected="#ff8c00"
         transition_strips="#1c2630"
@@ -673,7 +673,7 @@
         keyframe_border_selected="#000000ff"
         keyframe_scale_factor="1"
         summary="#999bdf66"
-        preview_range="#a14d0066"
+        preview_range="#6568c946"
         interpolation_line="#94e575cc"
         >
         <space>
@@ -951,7 +951,7 @@
         color_node="#ffcb4d"
         group_node="#59b36ab9"
         group_socket_node="#dfc300"
-        frame_node="#9b9b9ba0"
+        frame_node="#d7d9dfff"
         matte_node="#977474"
         distor_node="#749797"
         noodle_curving="4"
